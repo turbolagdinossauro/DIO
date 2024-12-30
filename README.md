@@ -16,6 +16,6 @@
 - Obtendo o endereço da máquina: ``` ifconfig ```
 - URL para clone: http://www.facebook.com
 
-### Resutados
+### Resultados
 
-![Alt text](./DIO Projeto 1.jpg "Optional title")
+- Ver imagem DIO Projeto 1.jpg
